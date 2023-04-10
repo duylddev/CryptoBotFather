@@ -1,0 +1,9 @@
+{
+  "name": "crypto-bot-father",
+  "version": "1.0.0",
+  "description": "NodeJS Crypto Trading Bot Library",
+  "main": "index.js",
+  "repository": "https://github.com/duylddev/CryptoBotFather",
+  "author": "duylddev",
+  "license": "MIT"
+}
